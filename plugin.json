@@ -1,0 +1,29 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "clicknote",
+  "displayName": "ClickNote",
+  "description": "Work through the website feedback your clients leave in ClickNote: open notes, the exact element and page, statuses and internal notes.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Which notes are still open on my ClickNote projects?",
+    "Read ClickNote note 3 and find the file that element comes from.",
+    "Mark the ClickNote notes I fixed today as done."
+  ],
+  "author": {
+    "name": "Peak Digital Ltd",
+    "email": "hello@clicknote.io",
+    "url": "https://clicknote.io"
+  },
+  "homepage": "https://clicknote.io/docs/mcp",
+  "repository": "https://github.com/simplyecommerce/clicknote-antigravity",
+  "license": "Proprietary",
+  "keywords": [
+    "website feedback",
+    "client feedback",
+    "agencies",
+    "web design",
+    "QA",
+    "MCP"
+  ]
+}
