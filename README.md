@@ -1,6 +1,6 @@
 # ClickNote for Google Antigravity
 
-ClickNote is a website feedback tool for web agencies. Clients click directly on the part of a website they mean and leave a note, without creating an account or installing a browser extension. Every note records the page, the exact element (its CSS selector and XPath), a screenshot, and the browser and device it was left on.
+ClickNote is a website feedback tool for web agencies. Clients click directly on elements of a website and leave a note, without creating an account or installing a browser extension. Every note records the page, the exact element (its CSS selector and XPath), a screenshot, and the browser and device it was left on.
 
 This plugin connects Antigravity to your ClickNote workspace, so your agent can work through that feedback in your codebase: find the open notes on a project, read a note with everything it captured about the element, go to the file that element comes from, make the change, then mark the note done and leave an internal note for your team.
 
