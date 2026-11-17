@@ -42,3 +42,7 @@ It can never change how anyone signs in (passwords, two-factor, keys, connected 
 - Support: hello@clicknote.io
 
 ClickNote is run by Peak Digital Ltd.
+
+## Licence
+
+The files in this repository are under the MIT licence (see LICENSE). The ClickNote name and logo are trademarks of Peak Digital Ltd and are not covered by it. Using the ClickNote service is covered by its own terms: https://clicknote.io/legal/terms

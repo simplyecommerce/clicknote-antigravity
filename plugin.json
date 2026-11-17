@@ -17,7 +17,7 @@
   },
   "homepage": "https://clicknote.io/docs/mcp",
   "repository": "https://github.com/simplyecommerce/clicknote-antigravity",
-  "license": "Proprietary",
+  "license": "MIT",
   "keywords": [
     "website feedback",
     "client feedback",
